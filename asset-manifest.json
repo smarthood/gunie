@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gunie/static/css/main.a9999f7d.css",
+    "main.js": "/gunie/static/js/main.dfb7a0db.js",
+    "static/media/gunie2.png": "/gunie/static/media/gunie2.f963572ac764b5783795.png",
+    "static/media/scroll.png": "/gunie/static/media/scroll.2ed916db1d13624dcc21.png",
+    "static/media/gunie1.png": "/gunie/static/media/gunie1.1dc75171134dd5d52ea0.png",
+    "index.html": "/gunie/index.html",
+    "main.a9999f7d.css.map": "/gunie/static/css/main.a9999f7d.css.map",
+    "main.dfb7a0db.js.map": "/gunie/static/js/main.dfb7a0db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9999f7d.css",
+    "static/js/main.dfb7a0db.js"
+  ]
+}
